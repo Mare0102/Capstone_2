@@ -68,10 +68,12 @@ In this table we will see a combination from 6 tables (rental, category, film, p
 # Data Manipulation
 After we constructing the tables, we have to treat the missing values, change data type, and make new feature.
 
-**df_film**
+**df_film :**
+
 While there are no missing values on all the columns, we have wrong data type assigned to the rental_rate column. The rental_rate column is the rate of borrowing film in dollar. The data type should be float not object.
 
-**df_durcon**
+**df_durcon :**
+
 We have missing values on the rental_length_day and the wrong data type also assigned to the rental_rate and payment column. 
 
 # Data Visualization & Statistics
