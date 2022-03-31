@@ -85,6 +85,9 @@ In this section we will try to answer these questions:
 7.	Rental location increasing/decreasing?
 
 
-
+P.S:
+For some reason the output of ipynb file can't be loaded in this github. 
+To view the output, please download and open the file on your preferred platform.
+(change the MySQL user and password)
 
 
